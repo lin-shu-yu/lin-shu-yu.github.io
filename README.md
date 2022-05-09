@@ -1,5 +1,8 @@
-# Memoirs Jekyll Theme
+# Hi, I'm Michelle
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+Welcome to my personal blog repo!
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+
+made from Memoirs Jekyll Theme
+
+[Original theme](https://bootstrapstarter.com/jekyll-theme-memoirs/)
