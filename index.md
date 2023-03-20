@@ -10,6 +10,8 @@ layout: default
 
 I'm a MS-PhD student in the Human Systems Laboratory at MIT Aeronautics & Astronautics funded through the NASA Space Technology Graduate Research Opportunity (NSTGRO). My research is focused on understanding the human-environment relationship and how we can utilize architecture to mitigate cognitive, behavioral, and psychological risks in long-duration spaceflight. I work with [Dr. Katya Arquilla](https://aeroastro.mit.edu/people/katya-arquilla/), [Jeffrey Montes](https://jetportal.net/about), and [Dr. Robert Howard](https://www.nasa.gov/nesc/academy/Dr-Robert-Howard-bio/).
 
+As a [Brooke Owens Fellow](https://www.brookeowensfellowship.org/michelle-lin) and a [Matthew Isakowitz Fellow](https://www.matthewisakowitzfellowship.org/), two prestigious fellowships for students in aerospace, I am honored to carry forward both of their legacies for a more inclusive and innovative aerospace industry. 
+
 ## Header 2
 
 > This is a blockquote following a header.
