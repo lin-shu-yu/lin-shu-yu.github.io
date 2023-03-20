@@ -4,6 +4,28 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
  -->
+ <!-- 
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+ -->
+
+<!-- #### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header. -->
+
+<!-- * * * -->
+
 
 # ABOUT
 
@@ -16,28 +38,6 @@ As a [Brooke Owens Fellow](https://www.brookeowensfellowship.org/michelle-lin) a
 You can find me on [linkedin](https://www.linkedin.com/in/mlin920/), [twitter](https://www.twitter.com/michthemartian), or [instagram](https://www.instagram.com/l.michelle).
 
 Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-* * *
-
 
 ## Professional
 
