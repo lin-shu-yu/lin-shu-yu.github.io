@@ -41,9 +41,11 @@ Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 
 ## Professional
 
-![5842a770a6515b1e0ad75afe](https://user-images.githubusercontent.com/104107202/226440518-de3da907-b52c-4401-8104-a1c566f21240.png) ![blue-origin-logo-5D6380B50D-seeklogo com](https://user-images.githubusercontent.com/104107202/226440718-252ba9ad-1fe9-4f44-aa21-0687dd824f1e.png)![Astrolab_logo_Black_(1)](https://user-images.githubusercontent.com/104107202/226440828-550d7726-17ba-4da3-b123-c93ec91ecf4f.jpg)
+![5842a770a6515b1e0ad75afe](https://user-images.githubusercontent.com/104107202/226440518-de3da907-b52c-4401-8104-a1c566f21240.png | width = 100) ![blue-origin-logo-5D6380B50D-seeklogo com](https://user-images.githubusercontent.com/104107202/226440718-252ba9ad-1fe9-4f44-aa21-0687dd824f1e.png | width = 100)![Astrolab_logo_Black_(1)](https://user-images.githubusercontent.com/104107202/226440828-550d7726-17ba-4da3-b123-c93ec91ecf4f.jpg | width = 100)![NASA-Logo-Large](https://user-images.githubusercontent.com/104107202/226441132-ccdd6675-c4dc-4875-a654-6a08135d1b43.png | width = 100)![NSF svg](https://user-images.githubusercontent.com/104107202/226441196-3f3bb481-d627-4237-8ff6-f752ae472f2d.png | width = 100)
  
 
+
 ## Speaker & Community Engagement
-![swe](https://user-images.githubusercontent.com/104107202/226440899-150e7972-8f14-4f69-9b10-9201e328ccec.png) ![PCVDJD5o_400x400](https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg)
+![swe](https://user-images.githubusercontent.com/104107202/226440899-150e7972-8f14-4f69-9b10-9201e328ccec.png | width = 100) ![PCVDJD5o_400x400](https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg | width = 100)![889dc456369922947f1f5ce0f46ce97d7fbb3e39-2683x2700](https://user-images.githubusercontent.com/104107202/226441387-76e74fd4-75c0-4d77-8db9-56aa32c32fa3.jpg | width = 100)
+
 
