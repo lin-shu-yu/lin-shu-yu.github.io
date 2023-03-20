@@ -41,8 +41,9 @@ Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 
 ## Professional
 
-![5842a770a6515b1e0ad75afe](https://user-images.githubusercontent.com/104107202/226440518-de3da907-b52c-4401-8104-a1c566f21240.png)
+![5842a770a6515b1e0ad75afe](https://user-images.githubusercontent.com/104107202/226440518-de3da907-b52c-4401-8104-a1c566f21240.png) ![blue-origin-logo-5D6380B50D-seeklogo com](https://user-images.githubusercontent.com/104107202/226440718-252ba9ad-1fe9-4f44-aa21-0687dd824f1e.png)![Astrolab_logo_Black_(1)](https://user-images.githubusercontent.com/104107202/226440828-550d7726-17ba-4da3-b123-c93ec91ecf4f.jpg)
+ 
 
 ## Speaker & Community Engagement
+![swe](https://user-images.githubusercontent.com/104107202/226440899-150e7972-8f14-4f69-9b10-9201e328ccec.png) ![PCVDJD5o_400x400](https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
