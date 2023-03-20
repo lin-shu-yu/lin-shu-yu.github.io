@@ -2,17 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
+ -->
+<!-- [Link to another page](./another-page.html). -->
 
-[Link to another page](./another-page.html).
+# ABOUT
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm a MS-PhD student in the Human Systems Laboratory at MIT Aeronautics & Astronautics funded through the NASA Space Technology Graduate Research Opportunity (NSTGRO). My research is focused on understanding the human-environment relationship and how we can utilize architecture to mitigate cognitive, behavioral, and psychological risks in long-duration spaceflight. I work with [Dr. Katya Arquilla](https://aeroastro.mit.edu/people/katya-arquilla/), [Jeffrey Montes](https://jetportal.net/about), and [Dr. Robert Howard](https://www.nasa.gov/nesc/academy/Dr-Robert-Howard-bio/).
 
 ## Header 2
 
