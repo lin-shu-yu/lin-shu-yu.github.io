@@ -42,9 +42,9 @@ Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 ## Professional
 
 
-<img src= "https://user-images.githubusercontent.com/104107202/226445390-17b90207-170c-41c6-91b4-b781f1f6c8f3.png" width = "200">  <img src= "https://user-images.githubusercontent.com/104107202/226445479-da3382ce-42f0-4e0a-a1fe-51bd3934ef96.png" width = "200">  <img src = "https://user-images.githubusercontent.com/104107202/226445510-ddc9f1db-7829-46b0-b1a0-e484309c9f2c.png" width = "200"> 
+<img src= "https://user-images.githubusercontent.com/104107202/226445390-17b90207-170c-41c6-91b4-b781f1f6c8f3.png" width = "150">  <img src= "https://user-images.githubusercontent.com/104107202/226445479-da3382ce-42f0-4e0a-a1fe-51bd3934ef96.png" width = "150">  <img src = "https://user-images.githubusercontent.com/104107202/226445510-ddc9f1db-7829-46b0-b1a0-e484309c9f2c.png" width = "150"> 
 
-<img src ="https://user-images.githubusercontent.com/104107202/226441196-3f3bb481-d627-4237-8ff6-f752ae472f2d.png" width = "180"> <img src="https://user-images.githubusercontent.com/104107202/226443386-c6c874f8-0b3e-44f6-b84a-a6cdf77bc849.png" width ="200">
+<img src ="https://user-images.githubusercontent.com/104107202/226441196-3f3bb481-d627-4237-8ff6-f752ae472f2d.png" width = "140"> <img src="https://user-images.githubusercontent.com/104107202/226443386-c6c874f8-0b3e-44f6-b84a-a6cdf77bc849.png" width ="150">
 
 ## Speaker & Community Engagement
-<img src = "https://user-images.githubusercontent.com/104107202/226444912-b928ebe2-1e0b-4bc0-8e19-53f4e035dabe.png" width = "200"> <img src = "https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg" width = "200"> <img src ="https://user-images.githubusercontent.com/104107202/226441387-76e74fd4-75c0-4d77-8db9-56aa32c32fa3.jpg" width = "200">
+<img src = "https://user-images.githubusercontent.com/104107202/226444912-b928ebe2-1e0b-4bc0-8e19-53f4e035dabe.png" width = "150"> <img src = "https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg" width = "150"> <img src ="https://user-images.githubusercontent.com/104107202/226441387-76e74fd4-75c0-4d77-8db9-56aa32c32fa3.jpg" width = "150">
