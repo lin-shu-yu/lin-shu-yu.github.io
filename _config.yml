@@ -20,3 +20,7 @@ sidebar:
     link: 
     
 theme: jekyll-theme-minimal
+
+cdn:
+  jsdelivr:
+    enabled: true
