@@ -54,6 +54,10 @@
       <footer>
         {% include footer.html %}
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.cdn.jsdelivr.enabled %}
+      <script src="{{ theme_assets_base_url }}{{ "/assets/js/scale.fix.min.js" }}"></script>
+    {% else %}
+      <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% endif %}
   </body>
 </html>
