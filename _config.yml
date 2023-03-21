@@ -24,3 +24,6 @@ theme: jekyll-theme-minimal
 cdn:
   jsdelivr:
     enabled: true
+
+plugins:
+  - jekyll-remote-theme
