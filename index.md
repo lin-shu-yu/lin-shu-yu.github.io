@@ -30,6 +30,8 @@ You can find me on [linkedin](https://www.linkedin.com/in/mlin920/), [twitter](h
 
 Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 
+***
+
 ## Current Projects
 ### Place Attachment Theory for Long-Duration Habitats
 <img width="635" alt="Screen Shot 2023-03-21 at 9 37 52 AM" src="https://user-images.githubusercontent.com/104107202/226623123-99f00ceb-f423-4e57-b16b-5e6d506a3da7.png">
