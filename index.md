@@ -18,20 +18,15 @@ layout: default
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header. -->
 
 <!-- * * * -->
 
 
-# ABOUT
+# About
 
 I'm a MS-PhD student in the [Human Systems Laboratory](https://www.hsl.mit.edu) at MIT Aeronautics & Astronautics funded through the NASA Space Technology Graduate Research Opportunity (NSTGRO). My research is focused on understanding the human-environment relationship and how we can utilize architecture to mitigate cognitive, behavioral, and psychological risks in long-duration spaceflight. I work with [Dr. Katya Arquilla](https://aeroastro.mit.edu/people/katya-arquilla/), [Jeffrey Montes](https://jetportal.net/about), and [Dr. Robert Howard](https://www.nasa.gov/nesc/academy/Dr-Robert-Howard-bio/) on this unique blend of bioastronautical engineering, psychology, data science, architecture, and human-centered design.
 
-Inspired by my experience in the commercial space industry (SpaceX - 2019, 2022; Blue Origin - 2020), I believe we're in the midst of a new space age. I feel incredibly privileged to be able to cultivate and push the narrative I hope to see in space exploration: the idea that psychological health is paramount, that a space habitat can be a home, and that space technology should be translated to terrestrial applications to increase the quality of life for those most failed by our society. Alongside my privilege as a higher education scholar, I am keenly familiar with the struggles that come with my marginalized identities as a queer, gender non-conforming, immigrant, low-income student. This juxtaposition has radicalized me toward a deep belief and support for access to a creative & empathetic scientific education. I am a regular lecturer for the [MIT Educational Studies Program](https://esp.mit.edu/) (serving middle- and high-schoolers in the Cambridge area) and a [Kaufman Teaching Certificate Program](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/) Fellow.
+Inspired by my experience in the commercial space industry, I believe we're in the midst of a new space age. I feel incredibly privileged to be able to cultivate and push the narrative I hope to see in space exploration: the idea that psychological health is paramount, that a space habitat can be a home, and that space technology should be translated to terrestrial applications to increase the quality of life for those most failed by our society. Alongside my privilege as a higher education scholar, I am keenly familiar with the struggles that come with my marginalized identities as a queer, gender non-conforming, immigrant, low-income student. This juxtaposition has radicalized me toward a deep belief and support for access to a creative & empathetic scientific education. I am a regular lecturer for the [MIT Educational Studies Program](https://esp.mit.edu/) (serving middle- and high-schoolers in the Cambridge area) and a [Kaufman Teaching Certificate Program](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/) Fellow.
 
 As a [Brooke Owens Fellow](https://www.brookeowensfellowship.org/michelle-lin) and a [Matthew Isakowitz Fellow](https://www.matthewisakowitzfellowship.org/), I am honored to carry forward both of their legacies for a more inclusive and innovative aerospace industry. I am the founder of [CU's Women of Aeronautics and Astronautics](https://www.colorado.edu/studentgroups/woaa/) and the [first pageant contestant to be sponsored by the Society of Women Engineers](https://alltogether.swe.org/2019/10/michelle-lin-finds-beauty-in-space-and-on-stage/). I was recipient of the [Research and Diversity Graduate Awards](https://www.colorado.edu/aerospace/2021/05/05/lin-earns-research-and-diversity-awards-cu-engineering) when I graduated summa cum laude, with honors, from CU Boulder with my B.S.'s in Aerospace Engineering Sciences and Applied Mathematics. My community building and leadership efforts have led to me being named a [Women in Aerospace](https://www.womeninaerospace.org/news/08-16-2019_1.html) Honoree, a [AIAA 20 Twenties](https://aviation.informaexhibitions.com/20-20/) Laureate, and an [AIAA Neil Armstrong](https://www.aiaa.org/news/news/2022/09/01/aiaa-announces-2022-undergraduate-scholarship-and-graduate-award-winners) Scholar. In life, I enjoy traveling, SCUBA & freediving, shooting film photography, knitting & crocheting, reading, and hanging out with my cat Lilith.
 
@@ -62,8 +57,13 @@ presented at ACM CHI '22, IAC '22
 
 supported by Space Exploration Initiative (Media Lab), Greenhouse Scholars, MIT Space Grant, NSF under grant no. 1745302
 
-## Professional
+***
+
+### Professional
 <img src= "https://user-images.githubusercontent.com/104107202/226445390-17b90207-170c-41c6-91b4-b781f1f6c8f3.png" width = "150">  <img src= "https://user-images.githubusercontent.com/104107202/226445479-da3382ce-42f0-4e0a-a1fe-51bd3934ef96.png" width = "150">  <img src = "https://user-images.githubusercontent.com/104107202/226445510-ddc9f1db-7829-46b0-b1a0-e484309c9f2c.png" width = "150"> <img src ="https://user-images.githubusercontent.com/104107202/226441196-3f3bb481-d627-4237-8ff6-f752ae472f2d.png" width = "140"> <img src="https://user-images.githubusercontent.com/104107202/226443386-c6c874f8-0b3e-44f6-b84a-a6cdf77bc849.png" width ="150">
 
-## Speaker & Community Engagement
-<img src = "https://user-images.githubusercontent.com/104107202/226444912-b928ebe2-1e0b-4bc0-8e19-53f4e035dabe.png" width = "150"> <img src = "https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg" width = "150"> <img src ="https://user-images.githubusercontent.com/104107202/226441387-76e74fd4-75c0-4d77-8db9-56aa32c32fa3.jpg" width = "150"> <img src="https://user-images.githubusercontent.com/104107202/226624948-b9092e7e-2af3-443b-a54e-7715c55a5b2e.png" width = "150">
+### Speaker & Community Engagement
+<img src = "https://user-images.githubusercontent.com/104107202/226444912-b928ebe2-1e0b-4bc0-8e19-53f4e035dabe.png" width = "150">  <img src ="https://user-images.githubusercontent.com/104107202/226441387-76e74fd4-75c0-4d77-8db9-56aa32c32fa3.jpg" width = "150"> <img src="https://user-images.githubusercontent.com/104107202/226624948-b9092e7e-2af3-443b-a54e-7715c55a5b2e.png" width = "150"> <img width="150" src="https://user-images.githubusercontent.com/104107202/226628867-292067d5-51b3-424d-854d-e96632656d3f.png"> <img src="https://user-images.githubusercontent.com/104107202/226628406-dd6584f1-c777-4f65-a766-5683f7d82479.png" width="150"> <img src = "https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg" width = "150"> <img src="https://user-images.githubusercontent.com/104107202/226628994-3406f98e-478f-4fac-8714-e8deea4c545d.jpg" width = "150">
+
+
+
