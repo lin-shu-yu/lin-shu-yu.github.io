@@ -39,10 +39,31 @@ You can find me on [linkedin](https://www.linkedin.com/in/mlin920/), [twitter](h
 
 Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 
+## Current Projects
+### Place Attachment Theory for Long-Duration Habitats
+<img width="635" alt="Screen Shot 2023-03-21 at 9 37 52 AM" src="https://user-images.githubusercontent.com/104107202/226623123-99f00ceb-f423-4e57-b16b-5e6d506a3da7.png">
+
+Human behavior is closely linked to the stressors the environment poses; ICE environments pose psychological risks to behavior and cognition. In any environment, we seek to find comfort and a sense of security, which in turn allows for increased curiosity and exploration. This is crucial for the next age of long-duration exploration missions. There is an opportunity to re-consider the habitat as a passive mitigator of behavioral health risk ([BMed-104](https://humanresearchroadmap.nasa.gov/Gaps/gap.aspx?i=703)) by evaluating the psychological demand of future exploration needs and their risks on crew health & performance ([HSIA-301](https://humanresearchroadmap.nasa.gov/Gaps/gap.aspx?i=724)).
+
+find the [poster](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028890/Lin_HRP.Poster_Final.pdf) here.
+
+presented at NASA HRP IWS '23
+
+supported by NASA under grant 80NSSC22K1222
+
+### Proprioceptive Adaptation in Microgravity
+<img src="https://user-images.githubusercontent.com/104107202/226626914-60546125-9155-415f-a844-e55e2e2ffbd4.png">
+
+In microgravity, the proprioceptive system undergoes adaptations due to the lack of constant gravitational cues. Photo-video evidence and informal accounts of microgravity exposures demonstrate a shift in the quality of movements and the self-awareness of one’s body. I have designed a conceptual framework to investigate this shift and to document the effects of the microgravity environment on the proprioceptive system, which was validated with a wearable sensor system garment user-tested by a participant on a ZeroGravity Corp. parabolic flight in May 2022.
+
+find the paper on the [fluidity framework](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028986/ACM_Quantifying_Proprioceptive_Experience_in_Microgravity.pdf) and [prototyping process](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028981/iac-2022-manuscript.pdf) here.
+
+presented at ACM CHI '22, IAC '22
+
+supported by Space Exploration Initiative (Media Lab), Greenhouse Scholars, MIT Space Grant, NSF under grant no. 1745302
+
 ## Professional
-
-
 <img src= "https://user-images.githubusercontent.com/104107202/226445390-17b90207-170c-41c6-91b4-b781f1f6c8f3.png" width = "150">  <img src= "https://user-images.githubusercontent.com/104107202/226445479-da3382ce-42f0-4e0a-a1fe-51bd3934ef96.png" width = "150">  <img src = "https://user-images.githubusercontent.com/104107202/226445510-ddc9f1db-7829-46b0-b1a0-e484309c9f2c.png" width = "150"> <img src ="https://user-images.githubusercontent.com/104107202/226441196-3f3bb481-d627-4237-8ff6-f752ae472f2d.png" width = "140"> <img src="https://user-images.githubusercontent.com/104107202/226443386-c6c874f8-0b3e-44f6-b84a-a6cdf77bc849.png" width ="150">
 
 ## Speaker & Community Engagement
-<img src = "https://user-images.githubusercontent.com/104107202/226444912-b928ebe2-1e0b-4bc0-8e19-53f4e035dabe.png" width = "150"> <img src = "https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg" width = "150"> <img src ="https://user-images.githubusercontent.com/104107202/226441387-76e74fd4-75c0-4d77-8db9-56aa32c32fa3.jpg" width = "150">
+<img src = "https://user-images.githubusercontent.com/104107202/226444912-b928ebe2-1e0b-4bc0-8e19-53f4e035dabe.png" width = "150"> <img src = "https://user-images.githubusercontent.com/104107202/226441025-96a58725-e998-445e-a1a4-edf3b0b5868d.jpg" width = "150"> <img src ="https://user-images.githubusercontent.com/104107202/226441387-76e74fd4-75c0-4d77-8db9-56aa32c32fa3.jpg" width = "150"> <img src="https://user-images.githubusercontent.com/104107202/226624948-b9092e7e-2af3-443b-a54e-7715c55a5b2e.png" width = "150">
