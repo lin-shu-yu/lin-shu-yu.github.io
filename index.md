@@ -21,8 +21,8 @@ Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 
 ***
 
-## Current Projects
-### Place Attachment Theory for Long-Duration Habitats
+### Current Projects
+#### Place Attachment Theory for Long-Duration Habitats
 <img width="635" alt="Screen Shot 2023-03-21 at 9 37 52 AM" src="https://user-images.githubusercontent.com/104107202/226623123-99f00ceb-f423-4e57-b16b-5e6d506a3da7.png">
 
 Human behavior is closely linked to the stressors the environment poses; ICE environments pose psychological risks to behavior and cognition. In any environment, we seek to find comfort and a sense of security, which in turn allows for increased curiosity and exploration. This is crucial for the next age of long-duration exploration missions. There is an opportunity to re-consider the habitat as a passive mitigator of behavioral health risk ([BMed-104](https://humanresearchroadmap.nasa.gov/Gaps/gap.aspx?i=703)) by evaluating the psychological demand of future exploration needs and their risks on crew health & performance ([HSIA-301](https://humanresearchroadmap.nasa.gov/Gaps/gap.aspx?i=724)).
@@ -33,7 +33,7 @@ presented at NASA HRP IWS '23
 
 supported by NASA under grant 80NSSC22K1222
 
-### Proprioceptive Adaptation in Microgravity
+#### Proprioceptive Adaptation in Microgravity
 <img src="https://user-images.githubusercontent.com/104107202/226626914-60546125-9155-415f-a844-e55e2e2ffbd4.png">
 
 In microgravity, the proprioceptive system undergoes adaptations due to the lack of constant gravitational cues. Photo-video evidence and informal accounts of microgravity exposures demonstrate a shift in the quality of movements and the self-awareness of one’s body. I have designed a conceptual framework to investigate this shift and to document the effects of the microgravity environment on the proprioceptive system, which was validated with a wearable sensor system garment user-tested by a participant on a ZeroGravity Corp. parabolic flight in May 2022.
