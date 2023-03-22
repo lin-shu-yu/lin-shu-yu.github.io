@@ -28,3 +28,6 @@ cdn:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
