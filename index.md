@@ -19,11 +19,6 @@ layout: default
 *   This is an unordered list following a header.
 
 
-<!-- * * * -->
-
-
-# About
-
 I'm a MS-PhD student in the [Human Systems Laboratory](https://www.hsl.mit.edu) at MIT Aeronautics & Astronautics funded through the NASA Space Technology Graduate Research Opportunity (NSTGRO). My research is focused on understanding the human-environment relationship and how we can utilize architecture to mitigate cognitive, behavioral, and psychological risks in long-duration spaceflight. I work with [Dr. Katya Arquilla](https://aeroastro.mit.edu/people/katya-arquilla/), [Jeffrey Montes](https://jetportal.net/about), and [Dr. Robert Howard](https://www.nasa.gov/nesc/academy/Dr-Robert-Howard-bio/) on this unique blend of bioastronautical engineering, psychology, data science, architecture, and human-centered design.
 
 You can find me on [linkedin](https://www.linkedin.com/in/mlin920/), [twitter](https://www.twitter.com/michthemartian), or [instagram](https://www.instagram.com/l.michelle).
