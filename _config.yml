@@ -4,6 +4,7 @@ description: Aerospace Engineer, Activist, Adventurer
 email: shuyulin [at] mit [dot] edu
 blank_title: true
 show_downloads: false
+remote_theme: BDHU/minimalist
 
 sidebar:
   - name: CV
