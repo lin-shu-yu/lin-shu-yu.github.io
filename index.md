@@ -13,7 +13,7 @@ layout: default
  -->
 
 
-I'm a PhD student in the [Human Systems Laboratory](https://hsl.mit.edu/) at MIT Aeronautics & Astronautics funded through the NASA Space Technology Graduate Research Opportunity (NSTGRO). My research is focused on understanding the human-environment relationship and how we can utilize architecture to mitigate cognitive, behavioral, and psychological risks in long-duration spaceflight. I work with [Dr. Katya Arquilla](https://aeroastro.mit.edu/people/katya-arquilla/), [Jeffrey Montes](https://jetportal.net/about), and [Dr. Robert Howard](https://www.nasa.gov/nesc/academy/Dr-Robert-Howard-bio/) on this unique blend of bioastronautical engineering, psychology, data science, architecture, and human-centered design.
+I'm a PhD student in the [Human Systems Laboratory](https://hsl.mit.edu/) at MIT Aeronautics & Astronautics funded through the NASA Space Technology Graduate Research Opportunity (NSTGRO). My research is focused on understanding the human-environment relationship and how we can utilize architecture to mitigate cognitive, behavioral, and psychological risks in long-duration spaceflight. I work with [Dr. Katya Arquilla](https://www.colorado.edu/aerospace/katya-arquilla), [Jeffrey Montes](https://jetportal.net/about), and [Dr. Robert Howard](https://www.nasa.gov/nesc/academy/Dr-Robert-Howard-bio/) on this unique blend of bioastronautical engineering, psychology, data science, architecture, and human-centered design.
 
 You can find me on [linkedin](https://www.linkedin.com/in/mlin920/).
 
@@ -27,7 +27,7 @@ Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 
 Human behavior is closely linked to the stressors the environment poses; ICE environments pose psychological risks to behavior and cognition. In any environment, we seek to find comfort and a sense of security, which in turn allows for increased curiosity and exploration. This is crucial for the next age of long-duration exploration missions. There is an opportunity to re-consider the habitat as a passive mitigator of behavioral health risk ([BMed-104](https://humanresearchroadmap.nasa.gov/Gaps/gap.aspx?i=703)) by evaluating the psychological demand of future exploration needs and their risks on crew health & performance ([HSIA-301](https://humanresearchroadmap.nasa.gov/Gaps/gap.aspx?i=724)).
 
-find the [poster](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028890/Lin_HRP.Poster_Final.pdf) here.
+find the full [poster](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028890/Lin_HRP.Poster_Final.pdf) here.
 
 presented at NASA HRP IWS '23
 
