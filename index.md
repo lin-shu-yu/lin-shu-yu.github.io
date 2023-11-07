@@ -13,15 +13,15 @@ layout: default
  -->
 
 
-I'm a MS-PhD student in the [Human Systems Laboratory](https://hsl.mit.edu/) at MIT Aeronautics & Astronautics funded through the NASA Space Technology Graduate Research Opportunity (NSTGRO). My research is focused on understanding the human-environment relationship and how we can utilize architecture to mitigate cognitive, behavioral, and psychological risks in long-duration spaceflight. I work with [Dr. Katya Arquilla](https://aeroastro.mit.edu/people/katya-arquilla/), [Jeffrey Montes](https://jetportal.net/about), and [Dr. Robert Howard](https://www.nasa.gov/nesc/academy/Dr-Robert-Howard-bio/) on this unique blend of bioastronautical engineering, psychology, data science, architecture, and human-centered design.
+I'm a PhD student in the [Human Systems Laboratory](https://hsl.mit.edu/) at MIT Aeronautics & Astronautics funded through the NASA Space Technology Graduate Research Opportunity (NSTGRO). My research is focused on understanding the human-environment relationship and how we can utilize architecture to mitigate cognitive, behavioral, and psychological risks in long-duration spaceflight. I work with [Dr. Katya Arquilla](https://aeroastro.mit.edu/people/katya-arquilla/), [Jeffrey Montes](https://jetportal.net/about), and [Dr. Robert Howard](https://www.nasa.gov/nesc/academy/Dr-Robert-Howard-bio/) on this unique blend of bioastronautical engineering, psychology, data science, architecture, and human-centered design.
 
-You can find me on [linkedin](https://www.linkedin.com/in/mlin920/), [twitter](https://www.twitter.com/michthemartian), or [instagram](https://www.instagram.com/l.michelle).
+You can find me on [linkedin](https://www.linkedin.com/in/mlin920/).
 
 Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 
 ***
 
-### Current Projects
+### Current Projects 
 #### Place Attachment Theory for Long-Duration Habitats
 <img width="635" alt="Screen Shot 2023-03-21 at 9 37 52 AM" src="https://user-images.githubusercontent.com/104107202/226623123-99f00ceb-f423-4e57-b16b-5e6d506a3da7.png">
 
@@ -38,7 +38,7 @@ supported by NASA under grant 80NSSC22K1222
 
 In microgravity, the proprioceptive system undergoes adaptations due to the lack of constant gravitational cues. Photo-video evidence and informal accounts of microgravity exposures demonstrate a shift in the quality of movements and the self-awareness of one’s body. I have designed a conceptual framework to investigate this shift and to document the effects of the microgravity environment on the proprioceptive system, which was validated with a wearable sensor system garment user-tested by a participant on a ZeroGravity Corp. parabolic flight in May 2022.
 
-find the paper on the [fluidity framework](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028986/ACM_Quantifying_Proprioceptive_Experience_in_Microgravity.pdf) and [prototyping process](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028981/iac-2022-manuscript.pdf) here.
+find the paper on the [fluidity framework](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028986/ACM_Quantifying_Proprioceptive_Experience_in_Microgravity.pdf) and [prototyping process](https://github.com/lin-shu-yu/lin-shu-yu.github.io/files/11028981/iac-2022-manuscript.pdf) here. you can find my [Master's thesis](https://dspace.mit.edu/handle/1721.1/151558) on MIT's DSpace repository.
 
 presented at ACM CHI '22, IAC '22
 
