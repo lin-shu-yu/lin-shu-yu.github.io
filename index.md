@@ -22,7 +22,12 @@ Email: [shuyulin [at] mit [dot] edu](mailto:shuyulin@mit.edu)
 ***
 
 ### Current Projects 
-#### Place Attachment Theory for Long-Duration Habitats
+#### Mapping Architectural Factors to Behavioral Health Outcomes [In progress]
+<img width="919" alt="Screenshot 2023-11-10 at 1 40 24 PM" src="https://github.com/lin-shu-yu/lin-shu-yu.github.io/assets/104107202/0a7fce25-33e3-4857-b20d-a8280dc5cd35">
+
+One of the largest challenges in spaceflight design is the quantifiable nature of engineering constraints (mass, volume, power) vs. architectural design constraints (comfortable, ergonomic, aesthetic). Further, we know the environment around us impacts our mood, affect, and performance -- but how? The human-environment relationship is complicated, but qualifying and quantifying these relationships will allow for thoughtful architectural considerations targeting behavioral health risks to be meaningfully introduced earlier in the design process. Through a Directed Acyclic Graph (DAG), I am mapping causal connections from designed factors in Isolated, Confined, and Extreme (ICE) environments to behavioral health outcomes. The acyclical nature of DAGs allows us to break out of cyclical relationships (sleep quality affecting mood, which in turn affects sleep, and so on) and to explore complex relationships with intention. 
+
+#### Place Attachment Theory for Long-Duration Habitats [Paused]
 <img width="635" alt="Screen Shot 2023-03-21 at 9 37 52 AM" src="https://user-images.githubusercontent.com/104107202/226623123-99f00ceb-f423-4e57-b16b-5e6d506a3da7.png">
 
 Human behavior is closely linked to the stressors the environment poses; ICE environments pose psychological risks to behavior and cognition. In any environment, we seek to find comfort and a sense of security, which in turn allows for increased curiosity and exploration. This is crucial for the next age of long-duration exploration missions. There is an opportunity to re-consider the habitat as a passive mitigator of behavioral health risk ([BMed-104](https://humanresearchroadmap.nasa.gov/Gaps/gap.aspx?i=703)) by evaluating the psychological demand of future exploration needs and their risks on crew health & performance ([HSIA-301](https://humanresearchroadmap.nasa.gov/Gaps/gap.aspx?i=724)).
@@ -33,7 +38,7 @@ presented at NASA HRP IWS '23
 
 supported by NASA under grant 80NSSC22K1222
 
-#### Proprioceptive Adaptation in Microgravity
+#### Proprioceptive Adaptation in Microgravity [Completed]
 <img src="https://user-images.githubusercontent.com/104107202/226626914-60546125-9155-415f-a844-e55e2e2ffbd4.png">
 
 In microgravity, the proprioceptive system undergoes adaptations due to the lack of constant gravitational cues. Photo-video evidence and informal accounts of microgravity exposures demonstrate a shift in the quality of movements and the self-awareness of one’s body. I have designed a conceptual framework to investigate this shift and to document the effects of the microgravity environment on the proprioceptive system, which was validated with a wearable sensor system garment user-tested by a participant on a ZeroGravity Corp. parabolic flight in May 2022.
